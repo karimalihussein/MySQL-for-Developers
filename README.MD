@@ -13,10 +13,10 @@ MySQL is a popular choice for web applications because it is fast, reliable, and
 click here to go to introdation to schema file
 
 ---
-* [Introduction To Schema](github.com/karimalihussein/MySQL-for-Developers/blob/main/Introduction-To-Schema.md)
-* [Integers](github.com/karimalihussein/MySQL-for-Developers/blob/main/Integers.md)
-* [Decimals](github.com/karimalihussein/MySQL-for-Developers/blob/main/Decimals.md)
-* [Strings](github.com/karimalihussein/MySQL-for-Developers/blob/main/Strings.md)
+* [Introduction To Schema](blob/main/Introduction-To-Schema.md)
+* [Integers](blob/main/Integers.md)
+* [Decimals](blob/main/Decimals.md)
+* [Strings](blob/main/Strings.md)
 
 ---
 
