@@ -12,4 +12,12 @@ MySQL is a popular choice for web applications because it is fast, reliable, and
 
 click here to go to introdation to schema file
 
-1 - [Introduction To Schema](github.com/learnwithsumit/MySQ...)
+---
+* [Introduction To Schema](github.com/karimalihussein/mysql-for-developer/)
+* [Integers](github.com/karimalihussein/mysql-for-developer/)
+* [Decimals](github.com/karimalihussein/mysql-for-developer/)
+
+---
+
+## resources
+* [MySQL for Developers](https://planetscale.com/courses/mysql-for-developers/)
