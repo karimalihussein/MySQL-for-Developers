@@ -1,4 +1,4 @@
-## 1.2 : Decimals
+## 1.3 : Decimals
 
 ## Storing decimals in MySQL
 

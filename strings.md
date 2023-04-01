@@ -1,4 +1,4 @@
-## 1.3 : Strings
+## 1.4 : Strings
 
 ## Understanding MySQL string data types, column sizes, character sets, and collations
 
