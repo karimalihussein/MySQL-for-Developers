@@ -17,7 +17,12 @@ click here to go to introdation to schema file
 * [Integers](integers.md)
 * [Decimals](decimals.md)
 * [Strings](strings.md)
-
+* [Long Strings](long-strings.md)
+* [Binary Strings](binary-strings.md)
+* [Long Strings](long-strings.md)
+* [Enums](enums.md)
+* [Dates and Times](dates.md)
+* [JSON](json.md)
 ---
 
 ## resources

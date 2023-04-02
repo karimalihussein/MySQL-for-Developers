@@ -87,6 +87,8 @@ For example, a JSON column might make sense when you're storing payloads from th
 
 One caveat when using JSON columns is that they can be quite heavy, especially if you're storing large amounts of JSON data. As with any data type in MySQL, only select the data you need when you're querying, and avoid retrieving JSON data unnecessarily.
 
+-----
+
 ## Conclusion
 
 - In this video, we've explored the benefits and best practices for using JSON columns in MySQL. We've looked at how to create and validate JSON objects in a MySQL schema, and shown how to use various functions and operators to retrieve and manipulate data. Finally, we've considered the use cases for JSON data, and provided some guidelines for when and why to use JSON columns in your MySQL database.
