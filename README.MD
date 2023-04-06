@@ -13,16 +13,24 @@ MySQL is a popular choice for web applications because it is fast, reliable, and
 click here to go to introdation to schema file
 
 ---
-* [Introduction To Schema](introduction-to-schema.md)
-* [Integers](integers.md)
-* [Decimals](decimals.md)
-* [Strings](strings.md)
-* [Long Strings](long-strings.md)
-* [Binary Strings](binary-strings.md)
-* [Long Strings](long-strings.md)
-* [Enums](enums.md)
-* [Dates and Times](dates.md)
-* [JSON](json.md)
+# Schema 
+* [Introduction To Schema](Schema/introduction-to-schema.md)
+* [Integers](Schema/integers.md)
+* [Decimals](Schema/decimals.md)
+* [Strings](Schema/strings.md)
+* [Long Strings](Schema/long-strings.md)
+* [Binary Strings](Schema/binary-strings.md)
+* [Long Strings](Schema/long-strings.md)
+* [Enums](Schema/enums.md)
+* [Dates and Times](Schema/dates.md)
+* [JSON](Schema/json.md)
+* [Unexpected Types](Schema/unexpected-types.md)
+* [Generated Columns](Schema/generated-columns.md)
+* [Schema Migrations](Schema/schema-migrations.md)
+* [Schema Recap](Schema/schema-recap.md)
+
+# Indexes
+* [Introduction To Indexes](Indexes/introduction-to-indexes.md)
 ---
 
 ## resources
