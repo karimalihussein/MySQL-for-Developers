@@ -31,6 +31,15 @@ click here to go to introdation to schema file
 
 # Indexes
 * [Introduction To Indexes](Indexes/introduction-to-indexes.md)
+* [B+ Trees](Indexes/b-trees.md)
+* [Primary Keys](Indexes/primary-keys.md)
+* [Secondary Keys](Indexes/secondary-keys.md)
+* [Primary Key Data Types](Indexes/primary-key-data-types.md)
+* [Where To Add Indexes](Indexes/where-to-add-indexes.md)
+* [Index Selectivity](Indexes/index-selectivity.md)
+* [Prefix Indexes](Indexes/prefix-indexes.md)
+* [Composite Indexes](Indexes/composite-indexes.md)
+* [Convering Indexes](Indexes/convering-indexes.md)
 ---
 
 ## resources
