@@ -41,6 +41,7 @@ click here to go to introdation to schema file
 * [Composite Indexes](Indexes/composite-indexes.md)
 * [Convering Indexes](Indexes/convering-indexes.md)
 * [Functional Indexes](Indexes/functional-indexes.md)
+* [Indexing JSON Columns](Indexes/indexing-json-columns.md)
 ---
 
 ## resources
