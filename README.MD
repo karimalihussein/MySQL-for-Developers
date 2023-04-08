@@ -44,6 +44,7 @@ click here to go to introdation to schema file
 * [Indexing JSON Columns](Indexes/indexing-json-columns.md)
 * [Indexing For Wildcard Searches](Indexes/indexing-for-wildcard-searches.md)
 * [Full-Text Indexes](Indexes/fulltext-indexes.md)
+* [Invisible Indexes](Indexes/invisible-indexes.md)
 ---
 
 ## resources
