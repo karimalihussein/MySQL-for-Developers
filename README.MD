@@ -45,6 +45,7 @@ click here to go to introdation to schema file
 * [Indexing For Wildcard Searches](Indexes/indexing-for-wildcard-searches.md)
 * [Full-Text Indexes](Indexes/fulltext-indexes.md)
 * [Invisible Indexes](Indexes/invisible-indexes.md)
+* [Foreign Keys](Indexes/foreign-keys.md)
 ---
 
 ## resources
