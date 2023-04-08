@@ -40,6 +40,7 @@ click here to go to introdation to schema file
 * [Prefix Indexes](Indexes/prefix-indexes.md)
 * [Composite Indexes](Indexes/composite-indexes.md)
 * [Convering Indexes](Indexes/convering-indexes.md)
+* [Functional Indexes](Indexes/functional-indexes.md)
 ---
 
 ## resources
