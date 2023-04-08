@@ -46,6 +46,9 @@ click here to go to introdation to schema file
 * [Full-Text Indexes](Indexes/fulltext-indexes.md)
 * [Invisible Indexes](Indexes/invisible-indexes.md)
 * [Foreign Keys](Indexes/foreign-keys.md)
+
+# Queries
+* [Introduction To Queries](Queries/introduction-to-queries.md)
 ---
 
 ## resources
